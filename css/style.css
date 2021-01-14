@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#logo{
+    width: 350px;
+}
+#buy-icon{
+    width: 50px;
+}
+
+#half-image{
+    width: 130%;
+}
+.card-image{
+    padding: 3%;
+    height: 400px;
+    width: 200px;
+}
+.icons{
+    width: 80px;
+}
+.card-hight{
+    height: 80%;
+}
+h1{
+    color: rgba(7, 7, 80, 0.959);
+    size: 700;
+}
+#text-color{
+    color: rgba(162, 236, 88, 0.877);
+}
+h2{
+    color: rgba(7, 7, 80, 0.959);
+}
+h3{
+    color: rgba(7, 7, 80, 0.959);
+}
+h5{
+    
+    color:  rgba(7, 7, 80, 0.959);;
+}
+.socials{
+    width: 100px;
+}
+#linkedin{
+    width: 60px;
+}
+
